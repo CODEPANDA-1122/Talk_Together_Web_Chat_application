@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Talk_Together_Web_Chat_application/static/css/main.678bbdb3.css",
+    "main.js": "/Talk_Together_Web_Chat_application/static/js/main.ebb17fc2.js",
+    "index.html": "/Talk_Together_Web_Chat_application/index.html",
+    "main.678bbdb3.css.map": "/Talk_Together_Web_Chat_application/static/css/main.678bbdb3.css.map",
+    "main.ebb17fc2.js.map": "/Talk_Together_Web_Chat_application/static/js/main.ebb17fc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.678bbdb3.css",
+    "static/js/main.ebb17fc2.js"
+  ]
+}
